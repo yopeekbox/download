@@ -12,4 +12,5 @@ YoPeekBox is a desktop web browsing and local file reading tool designed to help
 
 -  **Core Functions**: Transparent web pages and local files, auto-hide on mouse-out, customizable text color, hide images, and one-click background exit
 
+### Get the Yopeekbox installation package from the **Releases** section on the right.
 ## Want to know more? Visit us at https://yopeekbox.com
